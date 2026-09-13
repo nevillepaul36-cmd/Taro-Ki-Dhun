@@ -1,0 +1,6 @@
+{
+  "name": "String Tuner",
+  "description": "Precision string instrument tuner for Guitar, Veena, Sitar, Violin and 10+ instruments with Guru AI music engineer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
